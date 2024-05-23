@@ -1,1 +1,1 @@
-# bot_for_dummies
+# deployment for dumies
